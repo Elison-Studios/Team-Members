@@ -1,8 +1,8 @@
 ## Higher Ups
 
-  Owner: JKbings0099, Sammybear
-  CEO: NIL, NIL
-  COO: ShadowAvchovy, NO-GITHUB
+ #### Owner: JKbings0099, Sammybear
+ #### CEO: NIL, NIL
+ #### COO: ShadowAvchovy, NO-GITHUB
 
 ## DEVELOPERS
 
